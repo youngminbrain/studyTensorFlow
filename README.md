@@ -19,7 +19,7 @@ https://www.youtube.com/playlist?list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
 (2) Siraj Raval: Intro to Deep Learning (Udacity Nanodegree)
 https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
 
-(3) DeepLearning.TV: Seep Learning Simplified
+(3) DeepLearning.TV: Deep Learning Simplified
 https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu
 
 (4) 모두를 위한 머신러닝/딥러닝 강의(김성훈 교수님)
