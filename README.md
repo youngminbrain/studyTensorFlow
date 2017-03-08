@@ -39,6 +39,13 @@ https://www.atlaswearables.com/
 
 
 ## Courses
-(1) Stanford CS231n Convolutional Neural Networks for Visual Recognition
+(1) Stanford CS231n: Convolutional Neural Networks for Visual Recognition
 http://cs231n.github.io/
 
+(2) Stanford CS 20SI: TensorFlow for Deep Learning Research:
+http://web.stanford.edu/class/cs20si/index.html
+
+(3) Oxford Machine Learning
+https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+
+http://artificialbrain.xyz/deep-learning-lectures-at-the-university-of-oxford-by-nando-de-freitas/
