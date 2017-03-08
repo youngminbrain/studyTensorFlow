@@ -22,6 +22,5 @@ https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu
 
 (4) 모두를 위한 머신러닝/딥러닝 강의(김성훈 교수님)
 https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
-
 http://hunkim.github.io/ml/
 
