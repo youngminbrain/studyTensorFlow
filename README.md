@@ -1,4 +1,4 @@
-## studyTensorFlow
+# studyTensorFlow
 
 ### Dataset
 (1) MNIST
@@ -12,5 +12,11 @@ http://www.cs.toronto.edu/~kriz/cifar.html
 ### Video Tutorials
 (1) Siraj Raval: Intro to Tensorflow
 https://www.youtube.com/playlist?list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
+
+(2) Siraj Raval: Intro to Deep Learning (Udacity Nanodegree)
+https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
+
+(3) DeepLearning.TV: Seep Learning Simplified
+https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu
 
 
