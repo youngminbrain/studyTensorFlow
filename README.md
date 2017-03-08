@@ -26,3 +26,19 @@ http://hunkim.github.io/ml/
 (5) Big Data University: Deep Learning with TensorFlow
 https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh
 
+(6) Martin Gorner: Learn TensorFlow and deep learning, without a Ph.D.:
+https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+
+(7) Kaz Sato, Understanding neural networks with TensorFlow Playground
+https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground
+
+
+## Applications
+(1) Atlas Wearables
+https://www.atlaswearables.com/
+
+
+## Courses
+(1) Stanford CS231n Convolutional Neural Networks for Visual Recognition
+http://cs231n.github.io/
+
