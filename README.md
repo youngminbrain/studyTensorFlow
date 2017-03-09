@@ -31,7 +31,7 @@ https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
 https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu
 
 (4) 모두를 위한 머신러닝/딥러닝 강의(김성훈 교수님)
-https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm <br>
+https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 http://hunkim.github.io/ml/
 
 (5) Big Data University: Deep Learning with TensorFlow
@@ -42,6 +42,9 @@ https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learnin
 
 (7) Kaz Sato, Understanding neural networks with TensorFlow Playground
 https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground
+
+(8) Tensorflow Dev Summit 2017
+https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv
 
 
 ## Courses
@@ -81,5 +84,9 @@ https://github.com/martin-gorner
 
 (3) Tensorflow
 https://github.com/tensorflow
+
+(4) Stanford CS20SI
+https://github.com/chiphuyen/tf-stanford-tutorials
+
 
 
