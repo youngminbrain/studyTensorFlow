@@ -73,5 +73,13 @@ https://www.udacity.com/course/deep-learning--ud730
 
 
 ## Github
-Awesome Deep Learning
+(1) Awesome Deep Learning
 https://github.com/ChristosChristofidis/awesome-deep-learning
+
+(2) Martin Gorner
+https://github.com/martin-gorner
+
+(3) Tensorflow
+https://github.com/tensorflow
+
+
