@@ -1,6 +1,8 @@
 # studyTensorFlow
 https://www.tensorflow.org
 
+## Jupyter Notebook
+https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 
 ## Dataset & Competition
 (1) MNIST
