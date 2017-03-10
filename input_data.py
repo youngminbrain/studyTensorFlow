@@ -30,8 +30,8 @@ import numpy
 from six.moves import urllib
 from six.moves import xrange  # pylint: disable=redefined-builtin
 
-#SOURCE_URL = 'http://yann.lecun.com/exdb/mnist/'
-SOURCE_URL = 'https://web.archive.org/web/20150912040653/http://yann.lecun.com/exdb/mnist/'
+SOURCE_URL = 'http://yann.lecun.com/exdb/mnist/'
+#SOURCE_URL = 'https://web.archive.org/web/20150912040653/http://yann.lecun.com/exdb/mnist/'
 
 
 def maybe_download(filename, work_directory):
