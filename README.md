@@ -104,7 +104,7 @@ https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 (6) Human Motion Classification
 https://github.com/Cranapple/humanMotionClassification
 
-(7) LSTEM Human Activity Recognition
+(7) LSTM Human Activity Recognition
 https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition
 
 (8) Human Activity Recognition using CNN
