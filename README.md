@@ -6,7 +6,7 @@ https://www.tensorflow.org
 https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 
 
-## Dataset & Competition
+## Datasets
 (1) Kaggle
 https://www.kaggle.com/
 
@@ -21,7 +21,6 @@ http://wordnet.princeton.edu/
 
 (5) MNIST
 http://yann.lecun.com/exdb/mnist/
-https://web.archive.org/web/20150912040653/http://yann.lecun.com/exdb/mnist/
            
 (6) CIFAR-10 & CIFAR-100
 http://www.cs.toronto.edu/~kriz/cifar.html
