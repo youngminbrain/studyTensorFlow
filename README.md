@@ -1,25 +1,29 @@
-# studyTensorFlow
+# TensorFlow
 https://www.tensorflow.org
+
 
 ## Jupyter Notebook
 https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 
 ## Dataset & Competition
-(1) MNIST
+(1) Kaggle
+https://www.kaggle.com/
+
+(2) UCI Machine Learning Repository
+https://archive.ics.uci.edu/ml/datasets.html
+
+(3) ImageNet
+http://image-net.org/index
+
+(4) WordNet
+http://wordnet.princeton.edu/
+
+(5) MNIST
 http://yann.lecun.com/exdb/mnist/
 https://web.archive.org/web/20150912040653/http://yann.lecun.com/exdb/mnist/
            
-(2) CIFAR-10 & CIFAR-100
+(6) CIFAR-10 & CIFAR-100
 http://www.cs.toronto.edu/~kriz/cifar.html
-
-(3) Iris Dataset
-http://archive.ics.uci.edu/ml/datasets/Iris
-
-(4) ImageNet
-http://image-net.org/index
-
-(5) Kaggle
-https://www.kaggle.com/
 
 
 ## Tutorials
