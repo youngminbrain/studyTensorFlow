@@ -3,6 +3,8 @@ https://www.tensorflow.org
 
 
 ## Jupyter Notebook
+https://jupyter.readthedocs.io/en/latest/index.html
+
 https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 
 https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
